@@ -163,7 +163,7 @@
 }
 
 .modal-body-container {
-    padding: 8px 12px 0px 12px;
+    padding: 1em 1em 1em 1em;
 }
 
 @media (max-width: 300px) {
