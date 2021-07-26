@@ -38,19 +38,19 @@
 .timeline-title-text {
     margin-top: 16px;
     margin-bottom: 12px;
-    font-size: 23pt;
+    font-size: 1.5em;
     line-height: 1.3em;
     color: black;
 }
 
 .timeline-link-text, .timeline-link-text a {
-    font-size: 12pt;
+    font-size: 1em;
     color: black;
     font-style: oblique;
 }
 
 .timeline-content-text {
-    font-size: 11.5pt;
+    font-size: 0.6em;
     color: black;
     font-family: KoPub Dotum;
     font-weight: 500;
